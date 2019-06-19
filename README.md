@@ -1,0 +1,2 @@
+# dice
+Namespace in JS
